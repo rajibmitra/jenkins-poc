@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.346.2-lts-centos7
+FROM jenkins/jenkins:2.346.3-lts-centos7
 
 USER jenkins
 
